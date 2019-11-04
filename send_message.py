@@ -10,4 +10,8 @@ remarkname = sys.argv[1]
 username = newInstance.search_friends(remarkname)[0]['UserName']
 
 newInstance.send("%s" % sys.argv[2], username)
+
+
+
+
     
