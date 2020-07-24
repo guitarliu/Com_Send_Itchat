@@ -1,3 +1,4 @@
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 # Com_Send_Itchat
 send wechat messages under command, use new instance of itchat and auto-reply function.
 ## Instructions
