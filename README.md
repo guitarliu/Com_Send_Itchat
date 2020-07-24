@@ -7,6 +7,4 @@ send wechat messages under command, use new instance of itchat and auto-reply fu
 >>> python send_message.py [remarkname] [messages]
 ## Effections
 get and show messages from friends timely, send messages to friends as you like. More functions need to be extended.
-## What I Want To Say
-** Companies with 996 are not permitted to use this even though my script suck. **
-** 本项目仓库禁止对996公司开放使用许可，不管本项目代码有多烂，具体协议见上文. **
+
